@@ -1,0 +1,1064 @@
+canonical_identifier: bkk:krp/KR3eo026/v1
+canonical_location: https://kanripo.org/bkk/KR3eo026/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 保命歌括
+  identifiers:
+    krp: KR3eo026
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo026.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eo026_001.yaml, hash: 'sha256:761cc6ef9bdf1c8fa2484b416ae474c85aa3b9d97a2d459c724c7dd8359b67ac'}
+  - {seq: 2, filename: KR3eo026_002.yaml, hash: 'sha256:501b974532cdd95b48808814c2a42bed4d5494c79f7d7067659c6d41f1332115'}
+  - {seq: 3, filename: KR3eo026_003.yaml, hash: 'sha256:db8bcda9ba6805570cce0d6bdf903b0b0b67da014be5f53f59c5f173fa2a78af'}
+  - {seq: 4, filename: KR3eo026_004.yaml, hash: 'sha256:c21fdc14b4a42a4968fa797827f9aee01a1653879dca2ebd7c19316bc49b9915'}
+  - {seq: 5, filename: KR3eo026_005.yaml, hash: 'sha256:e9168ee6bd85e49abf2d8a857657aae9bee358d7664d8eee03da1fa85cb629ea'}
+  - {seq: 6, filename: KR3eo026_006.yaml, hash: 'sha256:4f778137e466705fac87b649c1d3d28b38a55cf5640ca0a99cf540c38ec3f90f'}
+  - {seq: 7, filename: KR3eo026_007.yaml, hash: 'sha256:206bb5dc820fb78c9e407c10e6ffe4ad1fffbb4010b78edcab910b05756569d1'}
+  - {seq: 8, filename: KR3eo026_008.yaml, hash: 'sha256:a46c92d1468fc335a2a10bd31a9ee6a5605b2204ceb7e93e033d2d13fe2979f4'}
+  - {seq: 9, filename: KR3eo026_009.yaml, hash: 'sha256:7fd272e690cc429e38298ec9b2f6cfd043b566b4b730cad810384977e86304a9'}
+  - {seq: 10, filename: KR3eo026_010.yaml, hash: 'sha256:19c56eac384dd6b31aca4602a625bb35398a22716d25a788ad26786d0e3082ac'}
+  - {seq: 11, filename: KR3eo026_011.yaml, hash: 'sha256:31df7c8880f66a031d7865ceab92d04a07427d1e0c956eb1a3b53e28d0310f99'}
+  - {seq: 12, filename: KR3eo026_012.yaml, hash: 'sha256:b64c8d97dff8f58d5827962455aefddf44b65a7a329011433b3355ac1a28be91'}
+  - {seq: 13, filename: KR3eo026_013.yaml, hash: 'sha256:3f56ec501df4af3a6673fa4c5e50f85852da1afcc3db86573cdff98b278b203a'}
+  - {seq: 14, filename: KR3eo026_014.yaml, hash: 'sha256:35c1d37ae357aa2fc008fbd0400182e2d78e4e0b65087f49031396d67c25677d'}
+  - {seq: 15, filename: KR3eo026_015.yaml, hash: 'sha256:d5c889b545c3da702cea248b85d19354033606d2d4dfc5e27c755948a67ee5a5'}
+  - {seq: 16, filename: KR3eo026_016.yaml, hash: 'sha256:5d38a0fd1eb9e9a90383463a18682f47862c18fed10e89010d8a88f628956d0d'}
+  - {seq: 17, filename: KR3eo026_017.yaml, hash: 'sha256:3f5463657ffdbab9a0be2ee4fef39fb1bad296492796b2bb28e1553f213fd298'}
+  - {seq: 18, filename: KR3eo026_018.yaml, hash: 'sha256:958f9aa4182dfd636f1012583baa6e629914bda90919d493484afe0351daa3a6'}
+  - {seq: 19, filename: KR3eo026_019.yaml, hash: 'sha256:447d5cf80b541f3c26d187697553869b882316a6e2722ba40ee1a666f5648ef3'}
+  - {seq: 20, filename: KR3eo026_020.yaml, hash: 'sha256:3c611285d56ecc85de8936f3af4ac554ef85ebd5f5d69352724a524c48316180'}
+  - {seq: 21, filename: KR3eo026_021.yaml, hash: 'sha256:6c2bb579cc3720070d7702849007fdeb88f70dbeb079d294192c9f58d181dc83'}
+  - {seq: 22, filename: KR3eo026_022.yaml, hash: 'sha256:899138675b421be50ed6d31bd8774bc2745e8cc6c6d248b0a1024f1704eccc0e'}
+  - {seq: 23, filename: KR3eo026_023.yaml, hash: 'sha256:f52a73932117d57a36718114342af00c5504ec6d9ecf086b2aa4d53e8532c834'}
+  - {seq: 24, filename: KR3eo026_024.yaml, hash: 'sha256:7e8ba85021064a35eb59231dcbe7b769ab27a8076a03034d97cf551726386430'}
+  - {seq: 25, filename: KR3eo026_025.yaml, hash: 'sha256:bbc129890ae3df804d86eb8ade115c12da9a01b6b20baf3859086812cd8cf87c'}
+  - {seq: 26, filename: KR3eo026_026.yaml, hash: 'sha256:d97640e54d20165bdd34b505c22f8cffb31c78e368555b5f13f0ce4eed50562e'}
+  - {seq: 27, filename: KR3eo026_027.yaml, hash: 'sha256:85541ed97647b2f89544c22b5b929e49dfa043d6dd197e6cfec43c0ecd91fcf3'}
+  - {seq: 28, filename: KR3eo026_028.yaml, hash: 'sha256:5b4e96c38b59f228d44e1762b3821dd92bf05333a24084728d3b1c932b5087c2'}
+  - {seq: 29, filename: KR3eo026_029.yaml, hash: 'sha256:70af7177e65868ae2d6c59bd070b622cfe506d92587382345c8090438ab9b22a'}
+  - {seq: 30, filename: KR3eo026_030.yaml, hash: 'sha256:f9599a9f5f2aaa0316e451b068b37bcbaca1afccb81abd7bc06878ee02950232'}
+  - {seq: 31, filename: KR3eo026_031.yaml, hash: 'sha256:337914b789c5cf13561a0cf65bb55b3147e433dd160b1a69a75d70f62385d787'}
+  - {seq: 32, filename: KR3eo026_032.yaml, hash: 'sha256:b44c66a05dbbf7cbfba7160a3ad0d81b2f119866e06bea629dd48c32ed8a4b18'}
+  - {seq: 33, filename: KR3eo026_033.yaml, hash: 'sha256:268b37e0b8019210e3aba2cef11089d3d11af2596b10a16c570d0eb2d4919a58'}
+  - {seq: 34, filename: KR3eo026_034.yaml, hash: 'sha256:8ea419c45d78066e32aca6f5ff7605079749d8195da2bc3ed0c1677b887733dc'}
+  - {seq: 35, filename: KR3eo026_035.yaml, hash: 'sha256:0f3f9cb06c4990e68c3f49fbb947b62312fa99c2d9e3253eaddcb6b2ddcb4551'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eo026_001.markers.yaml, hash: 'sha256:56b67606f6dbdd257b4da6edf69118fbd24d6500feb2999f861292acf52166cf'}
+  - {seq: 2, role: markers, filename: assets/KR3eo026_002.markers.yaml, hash: 'sha256:f691b21a4d64561f3998196f6cdd752b3e518702c94b77bf0446e48a2b5c80e4'}
+  - {seq: 3, role: markers, filename: assets/KR3eo026_003.markers.yaml, hash: 'sha256:17b5d91fb49d251e085f488ca4b2d7f1dd0856b881f0d6c3735bfec67bd6a7f5'}
+  - {seq: 4, role: markers, filename: assets/KR3eo026_004.markers.yaml, hash: 'sha256:4f8e712cbc99d8707f33d84e145e0890b15694ee5890a632ac47b2490c77e5b3'}
+  - {seq: 5, role: markers, filename: assets/KR3eo026_005.markers.yaml, hash: 'sha256:e096ae48c341426a6da92632ef19e08884fcf06ada68622fa7e865ca4d93cf2d'}
+  - {seq: 6, role: markers, filename: assets/KR3eo026_006.markers.yaml, hash: 'sha256:45194b1505f70d45ffd54397d3a873170514d3ed14365075872ecc5cf8d73b4e'}
+  - {seq: 7, role: markers, filename: assets/KR3eo026_007.markers.yaml, hash: 'sha256:6b6aede4ca33383f09b33331387fd5516b2006184327949b6cc79f223ee85fa9'}
+  - {seq: 8, role: markers, filename: assets/KR3eo026_008.markers.yaml, hash: 'sha256:a6a348be47ff07b07b6ea26dc76c31274d401c225f35942e07c80bfd3c74aa41'}
+  - {seq: 9, role: markers, filename: assets/KR3eo026_009.markers.yaml, hash: 'sha256:b3a8a47de64d0821eb35f0594fd06ea3d4d41d8ea8d89edabf14de3017463eca'}
+  - {seq: 10, role: markers, filename: assets/KR3eo026_010.markers.yaml, hash: 'sha256:43698670f0505e56bcf09ba0fb159498b6d2afeaa1189386e3e57b45ca1d3aef'}
+  - {seq: 11, role: markers, filename: assets/KR3eo026_011.markers.yaml, hash: 'sha256:f1ac64f8e146099b5ec6e1f0fb8d18e872b0b343a65636af0de0243f65d8adcb'}
+  - {seq: 12, role: markers, filename: assets/KR3eo026_012.markers.yaml, hash: 'sha256:b5616bb9cd0de70a0aadac1094d470e3f9b1b13ec53addc403af7c49fbeb3965'}
+  - {seq: 13, role: markers, filename: assets/KR3eo026_013.markers.yaml, hash: 'sha256:d462c102969f91669eb0db7cb0c5bb8a4b6df2bb4dd887901139fe6b9168a919'}
+  - {seq: 14, role: markers, filename: assets/KR3eo026_014.markers.yaml, hash: 'sha256:0604c4a28978aa118423107b5b8415c347bda40a65cdf6c6c645fea422bc029f'}
+  - {seq: 15, role: markers, filename: assets/KR3eo026_015.markers.yaml, hash: 'sha256:c048318c2e99a2bff60af0ee1fe1236a38fd7722aca7bc93661c3872c9da748f'}
+  - {seq: 16, role: markers, filename: assets/KR3eo026_016.markers.yaml, hash: 'sha256:ada1c65e3870f499893123060069b55582943c55c7333bbbc81deb558ab1a0f2'}
+  - {seq: 17, role: markers, filename: assets/KR3eo026_017.markers.yaml, hash: 'sha256:b3dfa8e4d12bd7116a37da1ba9d42307d9b1490798e517dee17fd9094aecfcb0'}
+  - {seq: 18, role: markers, filename: assets/KR3eo026_018.markers.yaml, hash: 'sha256:bf292591b849f50271b80ff7bee49aab3fa563fd302b390526c588870e2c988f'}
+  - {seq: 19, role: markers, filename: assets/KR3eo026_019.markers.yaml, hash: 'sha256:f2fe437d32245072228efdf0b5c56ccdf31a7c10ef7cd3768fbd20424462937e'}
+  - {seq: 20, role: markers, filename: assets/KR3eo026_020.markers.yaml, hash: 'sha256:7c532b4e53821eb49218de59424ffd48ebf60af898674c7546b21d4d081a0178'}
+  - {seq: 21, role: markers, filename: assets/KR3eo026_021.markers.yaml, hash: 'sha256:b05fc3a695016d280177a8bbe0be9f27e1542cf529be78d0952195ec789986c1'}
+  - {seq: 22, role: markers, filename: assets/KR3eo026_022.markers.yaml, hash: 'sha256:a20df169d4f4d21134dec5b6c896e2f19bc4def7358c74465e17f636fd5209fc'}
+  - {seq: 23, role: markers, filename: assets/KR3eo026_023.markers.yaml, hash: 'sha256:7ff97e918198127fa9cd708f5c73fe37ff35b7f8ed29dd5639d3c99be7fa4d30'}
+  - {seq: 24, role: markers, filename: assets/KR3eo026_024.markers.yaml, hash: 'sha256:3feda904c6fadf139f8b142ad3043c336e6beafd58935f71faae3c69bb715b32'}
+  - {seq: 25, role: markers, filename: assets/KR3eo026_025.markers.yaml, hash: 'sha256:cf5261545c8be3fb60a37e80fb834f15d34e0c6102d0b9583ba7c6b6ea72b1e6'}
+  - {seq: 26, role: markers, filename: assets/KR3eo026_026.markers.yaml, hash: 'sha256:9a2d38c41ceffa6c3f9aa86989e5aa1cb306d78b9bd7df2da617e5ed807f0002'}
+  - {seq: 27, role: markers, filename: assets/KR3eo026_027.markers.yaml, hash: 'sha256:221d50012bf29b22b1c0af5e868ef6c6cc6869b61b0b04b8435ac2a6d8779f1a'}
+  - {seq: 28, role: markers, filename: assets/KR3eo026_028.markers.yaml, hash: 'sha256:fa6016258fca15e1c6a4142f59a4d0048950dd012f3805c1697009dc434fc729'}
+  - {seq: 29, role: markers, filename: assets/KR3eo026_029.markers.yaml, hash: 'sha256:669be36dcd0f0c72d7f018bce3860cb85a245fc46da3443c31fc02c0555994cb'}
+  - {seq: 30, role: markers, filename: assets/KR3eo026_030.markers.yaml, hash: 'sha256:3b21a83df3273f708675c63df4f4bdf80daaa3cbcb62a09e693505fe769831ff'}
+  - {seq: 32, role: markers, filename: assets/KR3eo026_032.markers.yaml, hash: 'sha256:8f51bc67508cf766fa20e287c071497913af94957532041bd0c7766c3912b3fa'}
+  - {seq: 33, role: markers, filename: assets/KR3eo026_033.markers.yaml, hash: 'sha256:cba3c4b0bb6d04cbf707b525d7dab2bb342975707f25869e0fb30aeb7ab14d59'}
+  - {seq: 34, role: markers, filename: assets/KR3eo026_034.markers.yaml, hash: 'sha256:2134081bd6dfe7fd7ca8b120e4877621e56f65802b0923d288b8310be515a9d5'}
+  - {seq: 35, role: markers, filename: assets/KR3eo026_035.markers.yaml, hash: 'sha256:d28c2f164ee9d26473de117866f97b64becf3dd3344b7f57929c73bd1a8fc621'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eo026_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4772
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo026_jc_001-d2d2
+    span:
+    - body
+    - 3
+    - 3068
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo026_jc_001-d2d3
+    span:
+    - body
+    - 3068
+    - 4772
+  label: 治風諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo026_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14584
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eo026_jc_002-d3d2
+    span:
+    - body
+    - 3
+    - 1248
+  label: 中寒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo026_jc_002-d3d3
+    span:
+    - body
+    - 1248
+    - 14584
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo026_jc_002-d3.d3d222
+    span:
+    - body
+    - 9100
+    - 14584
+  label: 治傷寒諸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eo026_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2321
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo026_jc_003-d4d2
+    span:
+    - body
+    - 3
+    - 2321
+  label: 中暑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eo026_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3058
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eo026_jc_004-d5d2
+    span:
+    - body
+    - 3
+    - 3058
+  label: 濕病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eo026_jc_004-d5.d2d74
+    span:
+    - body
+    - 1849
+    - 3058
+  label: 治濕諸方
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eo026_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13302
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eo026_jc_005-d6d2
+    span:
+    - body
+    - 3
+    - 13302
+  label: 內傷病
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eo026_jc_005-d6.d2d224
+    span:
+    - body
+    - 7313
+    - 13302
+  label: 內傷諸方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eo026_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 6110
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eo026_jc_006-d7d2
+    span:
+    - body
+    - 3
+    - 6110
+  label: 瘟疫
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eo026_jc_006-d7.d2d186
+    span:
+    - body
+    - 3826
+    - 6110
+  label: 治瘟疫諸方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eo026_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5188
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eo026_jc_007-d8d2
+    span:
+    - body
+    - 3
+    - 5188
+  label: 氣病
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eo026_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 6452
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3eo026_jc_008-d9d2
+    span:
+    - body
+    - 3
+    - 6452
+  label: 血病
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3eo026_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 7044
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3eo026_jc_009-d10d2
+    span:
+    - body
+    - 3
+    - 7044
+  label: 痰病
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eo026_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 7168
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3eo026_jc_010-d11d2
+    span:
+    - body
+    - 3
+    - 7168
+  label: 火病
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3eo026_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2423
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3eo026_jc_011-d12d2
+    span:
+    - body
+    - 4
+    - 2423
+  label: 郁病
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3eo026_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 8382
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3eo026_jc_012-d13d2
+    span:
+    - body
+    - 4
+    - 8382
+  label: 虛損
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3eo026_jc_012-d13.d2d140
+    span:
+    - body
+    - 5142
+    - 8382
+  label: 勞損諸方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3eo026_jc_013-d14.h1s1
+    span:
+    - body
+    - 0
+    - 2522
+  label: 卷之十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3eo026_jc_013-d14d2
+    span:
+    - body
+    - 4
+    - 2522
+  label: 腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3eo026_jc_013-d14.d2d40
+    span:
+    - body
+    - 823
+    - 2522
+  label: 治腰痛諸方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3eo026_jc_014-d15.h1s1
+    span:
+    - body
+    - 0
+    - 5903
+  label: 卷之十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3eo026_jc_014-d15d2
+    span:
+    - body
+    - 4
+    - 5903
+  label: 腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3eo026_jc_014-d15.d2d132
+    span:
+    - body
+    - 2981
+    - 5903
+  label: 腳氣諸方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3eo026_jc_015-d16.h1s1
+    span:
+    - body
+    - 0
+    - 4660
+  label: 卷之十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3eo026_jc_015-d16d2
+    span:
+    - body
+    - 4
+    - 4660
+  label: 痿痹
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eo026_jc_015-d16.d2d76
+    span:
+    - body
+    - 1760
+    - 4660
+  label: 痿痹諸方
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3eo026_jc_016-d17.h1s1
+    span:
+    - body
+    - 0
+    - 6742
+  label: 卷之十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3eo026_jc_016-d17d2
+    span:
+    - body
+    - 4
+    - 6742
+  label: 疝氣附小腸氣
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3eo026_jc_016-d17.d2d146
+    span:
+    - body
+    - 3216
+    - 6742
+  label: 治疝諸方
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3eo026_jc_017-d18.h1s1
+    span:
+    - body
+    - 0
+    - 2467
+  label: 卷之十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3eo026_jc_017-d18d2
+    span:
+    - body
+    - 4
+    - 2467
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eo026_jc_017-d18.d2d54
+    span:
+    - body
+    - 903
+    - 2467
+  label: 治咳經驗諸方
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3eo026_jc_018-d19.h1s1
+    span:
+    - body
+    - 0
+    - 1043
+  label: 卷之十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3eo026_jc_018-d19d2
+    span:
+    - body
+    - 4
+    - 1043
+  label: 哮喘
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3eo026_jc_018-d19.d2d20
+    span:
+    - body
+    - 385
+    - 1043
+  label: 治喘經驗方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3eo026_jc_019-d20.h1s1
+    span:
+    - body
+    - 0
+    - 2620
+  label: 卷之十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3eo026_jc_019-d20d2
+    span:
+    - body
+    - 4
+    - 2620
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3eo026_jc_019-d20.d2d52
+    span:
+    - body
+    - 1030
+    - 2620
+  label: 治霍亂經驗方
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3eo026_jc_020-d21.h1s1
+    span:
+    - body
+    - 0
+    - 2244
+  label: 卷之二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3eo026_jc_020-d21d2
+    span:
+    - body
+    - 4
+    - 2244
+  label: 嘔吐吞酸嘈雜
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3eo026_jc_020-d21.d2d64
+    span:
+    - body
+    - 1119
+    - 2244
+  label: 治嘔吐經驗方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3eo026_jc_021-d22.h1s1
+    span:
+    - body
+    - 0
+    - 3059
+  label: 卷之二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3eo026_jc_021-d22d2
+    span:
+    - body
+    - 5
+    - 3059
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3eo026_jc_021-d22.d2d58
+    span:
+    - body
+    - 1459
+    - 3059
+  label: 泄瀉經驗諸方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3eo026_jc_022-d23.h1s1
+    span:
+    - body
+    - 0
+    - 4549
+  label: 卷之二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3eo026_jc_022-d23d2
+    span:
+    - body
+    - 5
+    - 4549
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3eo026_jc_022-d23.d2d94
+    span:
+    - body
+    - 2658
+    - 4549
+  label: 治痢經驗諸方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3eo026_jc_023-d24.h1s1
+    span:
+    - body
+    - 0
+    - 4883
+  label: 卷之二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3eo026_jc_023-d24d2
+    span:
+    - body
+    - 5
+    - 4883
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3eo026_jc_023-d24.d2d114
+    span:
+    - body
+    - 2527
+    - 4883
+  label: 治瘧經驗諸方
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3eo026_jc_024-d25.h1s1
+    span:
+    - body
+    - 0
+    - 3145
+  label: 卷之二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3eo026_jc_024-d25d2
+    span:
+    - body
+    - 5
+    - 3145
+  label: 痞滿
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3eo026_jc_024-d25.d2d80
+    span:
+    - body
+    - 1757
+    - 3145
+  label: 治滿病經驗諸方
+  type: section
+  level: 3
+- ref:
+    seq: 25
+    marker_id: KR3eo026_jc_025-d26.h1s1
+    span:
+    - body
+    - 0
+    - 3457
+  label: 卷之二十五
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3eo026_jc_025-d26d2
+    span:
+    - body
+    - 5
+    - 3457
+  label: 脹滿
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3eo026_jc_025-d26.d2d64
+    span:
+    - body
+    - 1991
+    - 3457
+  label: 治脹諸方
+  type: section
+  level: 3
+- ref:
+    seq: 26
+    marker_id: KR3eo026_jc_026-d27.h1s1
+    span:
+    - body
+    - 0
+    - 3193
+  label: 卷之二十六
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3eo026_jc_026-d27d2
+    span:
+    - body
+    - 5
+    - 3193
+  label: 腫病
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3eo026_jc_026-d27.d2d90
+    span:
+    - body
+    - 1631
+    - 3193
+  label: 治腫諸方
+  type: section
+  level: 3
+- ref:
+    seq: 27
+    marker_id: KR3eo026_jc_027-d28.h1s1
+    span:
+    - body
+    - 0
+    - 5594
+  label: 卷之二十七
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3eo026_jc_027-d28d2
+    span:
+    - body
+    - 5
+    - 5594
+  label: 積聚
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3eo026_jc_027-d28.d2d78
+    span:
+    - body
+    - 2925
+    - 5594
+  label: 治積聚諸方
+  type: section
+  level: 3
+- ref:
+    seq: 28
+    marker_id: KR3eo026_jc_028-d29.h1s1
+    span:
+    - body
+    - 0
+    - 4051
+  label: 卷之二十八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3eo026_jc_028-d29d2
+    span:
+    - body
+    - 5
+    - 4051
+  label: 膈噎
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3eo026_jc_028-d29.d2d74
+    span:
+    - body
+    - 1959
+    - 4051
+  label: 膈噎諸方
+  type: section
+  level: 3
+- ref:
+    seq: 29
+    marker_id: KR3eo026_jc_029-d30.h1s1
+    span:
+    - body
+    - 0
+    - 4530
+  label: 卷之二十九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3eo026_jc_029-d30d2
+    span:
+    - body
+    - 5
+    - 4530
+  label: 頭痛頭風頭眩
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3eo026_jc_029-d30.d2d90
+    span:
+    - body
+    - 2190
+    - 4530
+  label: 頭痛風眩諸方
+  type: section
+  level: 3
+- ref:
+    seq: 30
+    marker_id: KR3eo026_jc_030-d31.h1s1
+    span:
+    - body
+    - 0
+    - 4083
+  label: 卷之三十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3eo026_jc_030-d31d2
+    span:
+    - body
+    - 4
+    - 4083
+  label: 心痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3eo026_jc_030-d31.d2d128
+    span:
+    - body
+    - 2173
+    - 4083
+  label: 心痛諸方
+  type: section
+  level: 3
+- ref:
+    seq: 31
+    marker_id: KR3eo026_jc_031-d32.h1s1
+    span:
+    - body
+    - 0
+    - 2447
+  label: 卷之三十一
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3eo026_jc_031-d32d2
+    span:
+    - body
+    - 5
+    - 2447
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3eo026_jc_031-d32.d2d76
+    span:
+    - body
+    - 1670
+    - 2447
+  label: 腹痛諸方
+  type: section
+  level: 3
+- ref:
+    seq: 32
+    marker_id: KR3eo026_jc_032-d33.h1s1
+    span:
+    - body
+    - 0
+    - 1439
+  label: 卷之三十二
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3eo026_jc_032-d33d2
+    span:
+    - body
+    - 5
+    - 1439
+  label: 脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3eo026_jc_032-d33.d2d42
+    span:
+    - body
+    - 885
+    - 1439
+  label: 脅痛諸方
+  type: section
+  level: 3
+- ref:
+    seq: 33
+    marker_id: KR3eo026_jc_033-d34.h1s1
+    span:
+    - body
+    - 0
+    - 852
+  label: 卷之三十三
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3eo026_jc_033-d34d2
+    span:
+    - body
+    - 5
+    - 852
+  label: 大小二便秘
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3eo026_jc_034-d35.h1s1
+    span:
+    - body
+    - 0
+    - 1435
+  label: 卷之三十四
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3eo026_jc_034-d35d2
+    span:
+    - body
+    - 5
+    - 1435
+  label: 攝生輯略
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3eo026_jc_035-d36.h1s1
+    span:
+    - body
+    - 0
+    - 5339
+  label: 卷之三十五
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3eo026_jc_035-d36d2
+    span:
+    - body
+    - 5
+    - 5339
+  label: 醫案略
+  type: section
+  level: 2
+hash: sha256:f8077e2d72766261efbc08845797cde28c155301a8ac1a92126c101e7f1bb81c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
