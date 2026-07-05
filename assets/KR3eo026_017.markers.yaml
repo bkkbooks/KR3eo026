@@ -749,7 +749,6 @@ markers:
   - {type: 'tls:seg', offset: 1358, content: '', id: KR3eo026_jc_017-d18.d2.d54.p40s4}
   - {type: punctuation, offset: 1361, content: ，, id: KR3eo026_jc_017-bkkpn308}
   - {type: 'tls:seg', offset: 1361, content: '', id: KR3eo026_jc_017-d18.d2.d54.p40s5}
-  - {type: substitution, offset: 1362, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: punctuation, offset: 1365, content: ，, id: KR3eo026_jc_017-bkkpn309}
   - {type: 'tls:seg', offset: 1365, content: '', id: KR3eo026_jc_017-d18.d2.d54.p40s6}
   - {type: punctuation, offset: 1375, content: ，, id: KR3eo026_jc_017-bkkpn310}
@@ -1196,7 +1195,6 @@ markers:
   - {type: punctuation, offset: 2014, content: (, id: KR3eo026_jc_017-bkkpn474}
   - {type: punctuation, offset: 2016, content: ), id: KR3eo026_jc_017-bkkpn475}
   - {type: 'tls:seg', offset: 2016, content: '', id: KR3eo026_jc_017-d18.d2.d54.p90s10}
-  - {type: substitution, offset: 2016, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: 'tls:seg-start', offset: 2018, content: '', id: KR3eo026_jc_017-d18.d2.d54.p90s11, seg_type: comm, member_ids: [KR3eo026_jc_017-d18.d2.d54.p90s11, KR3eo026_jc_017-d18.d2.d54.p90s12, KR3eo026_jc_017-d18.d2.d54.p90s13]}
   - {type: 'tls:seg', offset: 2018, content: '', id: KR3eo026_jc_017-d18.d2.d54.p90s11}
   - {type: punctuation, offset: 2018, content: （, id: KR3eo026_jc_017-bkkpn476}
@@ -1299,7 +1297,6 @@ markers:
   - {type: xml-element, offset: 2150, content: '', id: KR3eo026_jc_017-d18.d2.d54p98_end, name: p, role: close, attrs: {'xml:id': KR3eo026_jc_017-d18.d2.d54p98}}
   - {type: xml-element, offset: 2150, content: '', id: KR3eo026_jc_017-d18.d2.d54p100, name: p, role: open, attrs: {'xml:id': KR3eo026_jc_017-d18.d2.d54p100}}
   - {type: 'tls:seg', offset: 2150, content: '', id: KR3eo026_jc_017-d18.d2.d54.p100s1}
-  - {type: substitution, offset: 2151, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 2152, content: '', id: KR3eo026_jc_017-d18.d2.d54p100_end, name: p, role: close, attrs: {'xml:id': KR3eo026_jc_017-d18.d2.d54p100}}
   - {type: xml-element, offset: 2152, content: '', id: KR3eo026_jc_017-d18.d2.d54p102, name: p, role: open, attrs: {'xml:id': KR3eo026_jc_017-d18.d2.d54p102}}
   - {type: 'tls:seg', offset: 2152, content: '', id: KR3eo026_jc_017-d18.d2.d54.p102s1}
@@ -1410,10 +1407,8 @@ markers:
   - {type: 'tls:seg', offset: 2333, content: '', id: KR3eo026_jc_017-d18.d2.d54.p110s10}
   - {type: punctuation, offset: 2335, content: ，, id: KR3eo026_jc_017-bkkpn565}
   - {type: 'tls:seg', offset: 2335, content: '', id: KR3eo026_jc_017-d18.d2.d54.p110s11}
-  - {type: substitution, offset: 2339, original: 菸, replacement: 烟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0992}}
   - {type: punctuation, offset: 2342, content: ，, id: KR3eo026_jc_017-bkkpn566}
   - {type: 'tls:seg', offset: 2342, content: '', id: KR3eo026_jc_017-d18.d2.d54.p110s12}
-  - {type: substitution, offset: 2344, original: 嚥, replacement: 咽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0721}}
   - {type: punctuation, offset: 2346, content: ，, id: KR3eo026_jc_017-bkkpn567}
   - {type: 'tls:seg', offset: 2346, content: '', id: KR3eo026_jc_017-d18.d2.d54.p110s13}
   - {type: punctuation, offset: 2348, content: 。, id: KR3eo026_jc_017-bkkpn568}
@@ -1503,4 +1498,4 @@ markers:
   - {type: punctuation, offset: 2467, content: 。, id: KR3eo026_jc_017-bkkpn595}
   - {type: xml-element, offset: 2467, content: '', id: KR3eo026_jc_017-d18.d2.d54p124_end, name: p, role: close, attrs: {'xml:id': KR3eo026_jc_017-d18.d2.d54p124}}
   back: []
-hash: sha256:b3dfa8e4d12bd7116a37da1ba9d42307d9b1490798e517dee17fd9094aecfcb0
+hash: sha256:9651238ca018617ada0870d836d4b03271e3cc947152a884d7e084e8ab666d47
